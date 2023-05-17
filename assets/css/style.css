@@ -10,6 +10,10 @@
     background-color: #bede1c;
 }
 
+.bg-color-personal-info{
+    background-color: #f4f4f472;
+}
+
 .ui-menu-color-home{
     background-color: #321be1;
 }
@@ -213,4 +217,30 @@ footer{
 
 #footer-details{
     padding: 20px;
+}
+
+/*----------------------- Three reasons */
+
+.three-reasons-icon{
+    font-size: 26px;
+    color: #321be1;
+}
+
+.three-reasons-heading{
+    margin-bottom: 20px;
+}
+
+/*----------------------- Personal info */
+
+.personal-info-item{
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+
+.personal-info-item .key,
+.personal-info-item .value{
+    padding-right: 8px;
+    display: inline-block;
+    
 }
